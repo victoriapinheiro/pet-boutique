@@ -1,0 +1,209 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.banner {
+    background-image: url('../img/banner-topo.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.logo {
+    max-width: 250px;
+}
+
+.logo img {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.marca {
+    font-size: 35px;
+    margin: 0 0 5px 0;
+    display: inline;
+}
+
+.slogan {
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.texto-branco {
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.texto-roxo {
+    color: #3c184e;
+    font-family: sans-serif;
+}
+
+.container a, .redes-sociais, .rodape {
+    background-color:#3c184e;
+}
+
+.container {
+    box-shadow: 0 8px 32px #1f26875e ;
+    background-color: #ffffffc4;
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+}
+
+.container h1 {
+    font-size: 60px;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 40px 0;
+}
+
+.container a {
+    text-decoration: none;
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.container img {
+    width: 20px;
+}
+
+.servicos {
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.servicos h2 {
+    font-size: 36px;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.servicos-lista {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+}
+
+.servicos-lista li {
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+
+.servicos-lista span {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.servicos-img {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.servicos-img img {
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.redes-sociais {
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.redes-sociais p {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    text-align: center;
+}
+
+.redes-sociais span {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.redes-sociais-img {
+    text-align: center;
+}
+
+.redes-sociais-img a {
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.redes-sociais img {
+    width: 50px;
+    height: 50px;
+}
+
+.marcas {
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.marcas h2 {
+    font-size: 36px;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.marcas-img {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.marcas-img img {
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+}
+
+.onde-estamos {
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.onde-estamos h2 {
+    font-size: 36px;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.onde-estamos p {
+    font-size: 20px;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.onde-estamos iframe {
+    width: 800px;
+    height: 450px;
+}
+
+.rodape {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.rodape p {
+    font-size: 12px;
+    text-align: center;
+}
+
+span {
+    font-style: italic;
+    font-weight: 700;
+}
